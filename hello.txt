@@ -1,3 +1,6 @@
 hello Peng ! hello git! 22223333
-hello Peng ! hello git! 
+<<<<<<< HEAD
 hello Peng ! hello git! master test
+=======
+hello Peng ! hello git! hot-fix 
+>>>>>>> hot-fix
